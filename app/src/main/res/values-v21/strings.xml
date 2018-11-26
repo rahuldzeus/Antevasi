@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="register"> Sign Up</string>
+    <string name="new_user">New User?</string>
+    <string name="meetings">Upcoming Meetings</string>
+    <string name="not_a_volunteer">Not a volunteer</string>
+    <string name="date_of_course">Date of Course</string>
+    <string name="volunteer_since">Volunteer Since</string>
+    <string name="save_button">Save the details</string>
+    <string name="cancel">Cancel the operation</string>
+    <string name="logout">Logout</string>
+    <string name="occupation">Occupation</string>
+    <string name="department">Department</string>
+    <string name="edit">Edit</string>
+    <string name="badge_blue">Badge</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="choose">Choose</string>
+    <string name="upload">Upload</string>
+    <string name="preview_image">Preview image</string>
+    <string name="back_button">Button to move to previous activity</string>
+    <string name="register_wallpaper">Registration wallpaper</string>
+    <string name="pic">Picture</string>
+    <string name="terms">Terms</string>
+    <string name="terms_wallpaper">Terms wallpaper</string>
+    <string name="terms_and_info">Terms and About</string>
+    <string name="about">About</string>
+</resources>

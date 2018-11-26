@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_attendance"
+        android:icon="@drawable/ic_thumb_up_black_24dp"
+        android:title="@string/attendance" />
+
+    <item
+        android:id="@+id/navigation_meeting"
+        android:icon="@drawable/ic_record_voice_over_black_24dp"
+        android:title="@string/upcoming_meeting" />
+
+    <item
+        android:id="@+id/navigation_profile"
+        android:icon="@drawable/ic_person_black_24dp"
+        android:title="@string/profile" />
+
+</menu>

@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "462708436729",
+    "firebase_url": "https://antevasi-faa55.firebaseio.com",
+    "project_id": "antevasi-faa55",
+    "storage_bucket": "antevasi-faa55.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:462708436729:android:cd3bd66da90c196d",
+        "android_client_info": {
+          "package_name": "bhaiya.sid.com.antevasi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "462708436729-1t20d526covqbejia4skn4k18401cj1d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "bhaiya.sid.com.antevasi",
+            "certificate_hash": "4b4e510509a78f208c84be7dd83a481f1e011388"
+          }
+        },
+        {
+          "client_id": "462708436729-hgremckrb9ghmqhunirqaiok15a0f0b8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAo_nJvQUsBiGRMW1ObD3hH0jDMML9P-Uk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "462708436729-hgremckrb9ghmqhunirqaiok15a0f0b8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

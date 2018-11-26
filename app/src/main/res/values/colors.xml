@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#850a49</color>
+    <color name="colorPrimaryDark">#850a49</color>
+    <color name="colorAccent">#850a49</color>
+    <color name="quote_color">#ffffff</color>
+    <color name="quotes_theme_color">#850a49</color>
+    <color name="line_color">#bdbdbd</color>
+    <color name="bottom_color">#ebbcd5</color>
+    <color name="field_background">#fadbec</color>
+
+</resources>
